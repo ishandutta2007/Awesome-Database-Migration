@@ -56,9 +56,9 @@ Below is a curated comparison table of leading commercial and cloud-native datab
 
 ## 📦 Open-Source GitHub Projects
 
-Explore production-proven, open-source database migration repositories, CDC engines, and schema management tools. Sorted in **descending order by GitHub star count** 🌟.
+Explore production-proven, open-source database migration repositories, CDC engines, and schema management tools. Sorted in **descending order by GitHub Stars_Count** 🌟.
 
-| Repository | Description & Primary Use Case | GitHub Stars 🌟 |
+| Repository | Description & Primary Use Case | GitHub_Stars 🌟 |
 | :--- | :--- | :--- |
 | **[Flyway](https://github.com/flyway/flyway)** 🦅 | **Developer-friendly SQL-first schema migration framework.** Supports 50+ relational databases using plain versioned SQL scripts. | [<img src="https://img.shields.io/github/stars/flyway/flyway?style=social&color=white" alt="Flyway Stars"/>](https://github.com/flyway/flyway/stargazers) |
 | **[golang-migrate](https://github.com/golang-migrate/migrate)** 🐹 | **Database migrations written in Go.** CLI and library supporting CLI/Go migrations for PostgreSQL, MySQL, SQLite, MongoDB, Redshift, etc. | [<img src="https://img.shields.io/github/stars/golang-migrate/migrate?style=social&color=white" alt="golang-migrate Stars"/>](https://github.com/golang-migrate/migrate/stargazers) |
@@ -83,7 +83,7 @@ Explore production-proven, open-source database migration repositories, CDC engi
 We welcome community contributions! Follow these simple steps:
 
 1. **Fork** the repository.
-2. Edit `README.md` to add your recommended SaaS or Open-Source tool (ensure accurate pricing, star counts, and descriptions).
+2. Edit `README.md` to add your recommended SaaS or Open-Source tool (ensure accurate pricing, Stars_Counts, and descriptions).
 3. Ensure formatting adheres to the tables above.
 4. Open a **Pull Request** with a brief summary of additions.
 
@@ -113,3 +113,12 @@ If you find this repository helpful for your database engineering projects, data
 ---
 
 <p center>Made with ❤️ for Database Engineers, Data Platform Teams, & DevOps Specialists worldwide.</p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Database-Migration&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Database-Migration_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Database-Migration_growth.svg">
+  </picture>
+</a>
